@@ -1,6 +1,6 @@
 ---
-title: About
-layout: about
+title: Collect_Builder
+layout: Estefania_Diaz
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
